@@ -1,0 +1,38 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-6--of-12-Dresden-Edition-Discussions_38806
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, Bob
+    - Ingersoll, R. G. (Robert Green)
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+tableOfContents: 'The Christian religion; Ingersoll''s opening paper -- The Christian
+  religion, by Jeremiah S. Black -- The Christian religion, by Robert G. Ingersoll
+  -- Faith or agnosticism -- The Field-Ingersoll discussion -- A reply to the Rev.
+  Henry M. Field, D.D. -- A last word to Robert G. Ingersoll -- Letter to Dr. Field
+  -- Controversy on Christianity -- Col. Ingersoll to Mr. Gladstone -- Rome or reason
+  -- The Church its own witness, by Cardinal Manning -- Rome or reason: a reply to
+  Cardinal Manning -- Is divorce wrong? -- Divorce -- Is corporal punishment degrading?'
+title: "The Works of Robert G. Ingersoll, Vol. 06 (of 12)\r\nDresden Edition—Discussions"
+url: http://www.gutenberg.org/ebooks/38806
